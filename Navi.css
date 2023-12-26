@@ -1,0 +1,36 @@
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+    padding: 20px 30px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+    
+
+    
+    
+}
+#centre{
+    display: flex;
+    gap: 20px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color:red;
+    padding: 20px;
+    margin-top: 20px;
+} 
+#centr{
+    display: flex;
+    gap: 20px;
+ 
+    
+}
+#right{
+    display: flex;
+    justify-content: right;
+}
