@@ -1,0 +1,46 @@
+/* img{
+    margin-top: 20px;
+    position: relative;
+    position: absolute;
+    position: sticky;
+    top: 20px;
+    left: 20px;
+    
+} */
+nav{
+    background-color: red;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#content{
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+a:hover{
+    background-color: white;
+    color: blueviolet;
+}
+#menu{
+    list-style-type: none;
+    padding: 0px;
+    position: absolute;
+    display: none;
+    /* top: 20px;
+    left: 20px; */
+}
+#drop:hover #menu{
+    display: block;
+    position: absolute;
+    background-color: red;
+}
