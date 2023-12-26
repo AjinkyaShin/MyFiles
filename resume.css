@@ -1,0 +1,38 @@
+#res{
+
+    display: block;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    text-transform:capitalize;
+    font-size: 30px;
+    text-shadow: 5px 0px 0px yellow;
+}
+#res:hover{
+    color: purple;
+    font-size:60px ;
+    transition: 2s;
+}
+table{
+    border:2px solid black;
+    border-collapse: collapse;
+    
+}
+th{
+    border: 2px solid black;
+
+}
+h6{
+    text-align: right;
+}
+#Sig{
+    text-align: right;
+}
+
+#image{
+    margin-left: 1237px;
+}
+#AJI:hover{
+    transition: 6s;
+    transform: rotate(720deg);
+}
