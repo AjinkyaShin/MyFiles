@@ -1,0 +1,21 @@
+#IN{
+    color: black;
+    font-size: 34px;
+    text-align: center; 
+    font-weight: 100;
+    text-transform:capitalize;
+    letter-spacing: 15px;
+    word-spacing: 50px;
+    text-shadow: -4px -3px 4px  red;
+
+}
+#CSK{
+    color: yellow;
+}
+h2{
+    display: inline;
+}
+a{
+    display: block;
+    text-align: center;
+}

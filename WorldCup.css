@@ -1,0 +1,50 @@
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}
+.Qualify{
+    color:darkgreen;
+}
+.NotQualify{
+    color: red;
+}
+/* #ind{
+    color: blue;
+}
+#sa{
+    color: green;
+}
+#au{
+    color: yellow;
+}
+#nz{
+    color: black;
+}
+#pk{
+    color: greenyellow;
+}
+#af{
+    color: blueviolet;
+}
+#en{
+    color: red;
+}
+#sl{
+    color: aqua;
+}
+#ba{
+    color: green;
+}
+#ne{
+    color: orange;
+} */
+*{
+    color: chocolate;
+}

@@ -1,0 +1,35 @@
+#msd{
+    display: block;
+    text-decoration: none;
+    color: yellow;
+    text-align: left;
+    text-transform:uppercase;
+    font-size:60px ;
+    text-shadow:5px 0px 0px red ;
+
+
+}
+#vk{
+    display: block;
+    text-decoration: none;
+    color: red;
+    text-align: center;
+    text-transform:capitalize;
+    font-size: 50px;
+    text-shadow: 5px 0px 0px yellow;
+}
+#rs{
+    display: block;
+    text-decoration: none;
+    color: blue;
+    text-align: right;
+    text-transform:lowercase;
+    font-size: 40px;
+    text-shadow: 5px 0px 0px yellow;
+}
+#msd:hover{
+    color: purple;
+    font-size:60px ;
+    transition: 2s;
+
+}
