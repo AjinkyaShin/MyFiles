@@ -1,0 +1,13 @@
+ul{
+    list-style-type: square;
+    background-color: chocolate;
+}
+body{
+    background-color: red;
+}
+ol{
+    background-color: yellow;
+}
+dl{
+    background-color: hotpink;
+}

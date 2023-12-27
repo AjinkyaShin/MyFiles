@@ -1,0 +1,53 @@
+/* ul{
+    list-style-type: square;
+}
+.SRK{
+    color: red;
+}
+.KA{
+    color: blue
+}
+.JH{
+    color:blue
+}
+body{
+    background-color: red;
+}
+ol{
+    background-color: yellow;
+}
+dl{
+    background-color: hotpink;
+}
+.AB{
+    background-color: aqua;
+}
+.AL{
+    background-color: brown;
+}
+.MB{
+    background-color:brown ;
+} */
+/* body{
+    background-image: linear-gradient(red,blue,yellow,green);
+    height: 100vh;
+} */
+ol{
+    background-image: linear-gradient(blue,yellow);
+    background-image: url(./image/OL.jpg);
+    background-size: cover;
+}
+dl{
+    background-image: linear-gradient(red,yellow);
+    background-image: url(./image/DL.jpg);
+    background-size: cover;
+}
+ul{
+    background-image: linear-gradient(blue,yellow);
+    background-image: url(./image/UL.jpg);
+}
+/* body{
+    background-image: url(./image/Ava.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
