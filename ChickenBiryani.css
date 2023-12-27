@@ -1,0 +1,25 @@
+ul{
+    list-style-type: square;
+}
+#chi{
+    color: red;
+}
+step1{
+    list-style-type:lower-greek
+}
+.S1{
+    color: red;
+}
+.S2{
+    color: red;
+}
+.S3{
+    color: red;
+}
+.S4{
+    color: blue;
+}
+body{
+    background-image: linear-gradient(red,blue,yellow,green);
+    height: 100vh;
+}
